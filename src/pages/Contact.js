@@ -41,31 +41,6 @@ const Contact = () => {
               </div>
             </motion.div>
           </Link>
-          <Link to='https://wa.me/082132925340'>
-            <motion.div
-              whileHover={{ scale: 1.05 }}
-              className="bg-slate-800 hover:bg-slate-600 hover:cursor-pointer p-4 rounded-lg flex items-center"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-8 w-8 mr-4 text-white"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M12 10v1a3 3 0 0 0 3 3h4a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1h-5l-2-3-2 3H5a1 1 0 0 0-1 1v8a3 3 0 0 0 3 3v1l4-2 4 2v-1a3 3 0 0 0 3-3v-3a3 3 0 0 0-3-3z"
-                />
-              </svg>
-              <div>
-                <h2 className="text-lg font-semibold text-white">Phone</h2>
-                <p className="text-white">+62 821 3292 5340</p>
-              </div>
-            </motion.div>
-          </Link>
           <Link to='https://maps.app.goo.gl/1qT5nK8v3TfxphPK8'>
             <motion.div
               whileHover={{ scale: 1.05 }}
