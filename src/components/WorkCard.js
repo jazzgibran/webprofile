@@ -17,7 +17,7 @@ const WorkCard = ({ title, image, description = "Click the image to see in full 
           whileHover={{ scale: 1.05 }}
           src={image}
           alt={title}
-          className="w-full md:h-[350px] h-[150px] object-cover cursor-pointer"
+          className="w-full md:h-[350px] h-[150px]  rounded-lg object-cover cursor-pointer"
           onClick={toggleModal}
         />
         <p className="text-gray-700 text-center font-semibold">{title}</p>
