@@ -11,6 +11,10 @@ const Projects = () => {
       image: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2aefe51-3060-4a84-8d76-8ffd19e53ac3/dh6149o-ee665145-065b-4b2c-a3ee-0d142e7a4995.png/v1/fill/w_1280,h_1793,q_80,strp/ariana_grande_by_jazz_sama_dh6149o-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc5MyIsInBhdGgiOiJcL2ZcL2IyYWVmZTUxLTMwNjAtNGE4NC04ZDc2LThmZmQxOWU1M2FjM1wvZGg2MTQ5by1lZTY2NTE0NS0wNjViLTRiMmMtYTNlZS0wZDE0MmU3YTQ5OTUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ozgFqjyIDKTTJu-mQMDBqIX6akkxp-JwrVIykepKq3I',
     },
     {
+      title: 'PPPORIN',
+      image: 'https://i.imgur.com/LGg4pgW.png',
+    },
+    {
       title: 'Vaporwave',
       image: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2aefe51-3060-4a84-8d76-8ffd19e53ac3/df19cim-667c2c32-291b-468c-9769-7c54cfb6b08f.jpg/v1/fill/w_1280,h_1280,q_75,strp/uhh_by_jazz_sama_df19cim-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2IyYWVmZTUxLTMwNjAtNGE4NC04ZDc2LThmZmQxOWU1M2FjM1wvZGYxOWNpbS02NjdjMmMzMi0yOTFiLTQ2OGMtOTc2OS03YzU0Y2ZiNmIwOGYuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.43QUfvEdx0D85GTZ5zqbTrw5dnszCEjWPfa8CMsXZpo',
     },
@@ -30,6 +34,7 @@ const Projects = () => {
       title: 'Flandre Scarlet',
       image: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2aefe51-3060-4a84-8d76-8ffd19e53ac3/df90qvb-a4b8f765-d94b-499a-aeec-b6366d83fb85.png/v1/fill/w_1192,h_670,q_70,strp/flandre_scarlet_wallpaper_by_jazz_sama_df90qvb-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYjJhZWZlNTEtMzA2MC00YTg0LThkNzYtOGZmZDE5ZTUzYWMzXC9kZjkwcXZiLWE0YjhmNzY1LWQ5NGItNDk5YS1hZWVjLWI2MzY2ZDgzZmI4NS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RVHxkz6twW4e5xWpg7hS4q1unDVY5Tz8Kix7WHriedY', 
     },
+    
     // Add more projects as needed
   ];
   const projects = [
