@@ -44,6 +44,12 @@ const Projects = () => {
       description: 'Casual Legends is an immersive role-playing adventure game. It is an adventure RPG game similar to D&D in which you roll the dice at key moments to determine your level of success or failure. But more importantly, it is a theatre of the mind in which you co-create the story and the world with AI.',
       link: 'https://casuallegends.app/'
     },
+    {
+      title: "N'Jalok Kopi Web Profile",
+      role: 'Full Stack',
+      description: 'A web profile for a coffee shop',
+      link: 'https://njalok.vercel.app/'
+    },
   ]
   return (
     <motion.div
