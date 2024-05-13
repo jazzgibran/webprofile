@@ -68,7 +68,7 @@ const Projects = () => {
       </div>
       <div className='py-8 md:w-2/5 '>
         <h2 className="text-3xl mb-4 mx-5 text-slate-700 md:text-white">PROJECTS</h2>
-          <div className="w-full p-4 flex flex-wrap pl-5 justify-center md:justify-start">
+          <div className="w-full p-4 flex flex-wrap flex-col gap-4 pl-5 justify-center md:justify-start">
           {projects.map((work, index) => (
             <ProjectCard key={index} {...work} />
           ))}
